@@ -14,8 +14,7 @@ ballistic vs. diffusive transport in simple model Hamiltonians.
 ## Launch the app
 
 - **GitHub Pages (recommended):**
-  `https://cacosomoza.github.io/QuantumSynthesizer/`
-  *(enable once: repo Settings → Pages → Deploy from branch → `main` / root)*
+  [Launch via GitHub Pages](https://cacosomoza.github.io/QuantumSynthesizer/)  
 - **Instant preview (no setup):**
   [Launch via htmlpreview](https://htmlpreview.github.io/?https://github.com/cacosomoza/QuantumSynthesizer/blob/main/index.html)
 - **Offline:** just open `index.html` in any modern browser — no server,
