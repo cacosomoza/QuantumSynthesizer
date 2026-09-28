@@ -3,8 +3,8 @@
 A single-file, dependency-free web app that simulates and **sonifies** the
 ultrafast dynamics of a donor excitation injected into an acceptor aggregate
 held in the Coulomb potential of the hole left behind — inspired by
-Gajewski *et al.*, *Nat. Commun.* (2026),
-[s41467-026-73700-1](https://www.nature.com/articles/s41467-026-73700-1).
+Somoza *et al.*, *Nature Communications Physics.* (2023),
+[s42005-023-01179-z](https://www.nature.com/articles/s42005-023-01179-z).
 
 Built as a didactic tool (high-school to early-undergraduate level) to
 develop intuition for delocalization, quantum interference, resonant
@@ -14,10 +14,10 @@ ballistic vs. diffusive transport in simple model Hamiltonians.
 ## Launch the app
 
 - **GitHub Pages (recommended):**
-  `https://YOUR-USERNAME.github.io/YOUR-REPO/`
+  `https://cacosomoza.github.io/QuantumSynthesizer/`
   *(enable once: repo Settings → Pages → Deploy from branch → `main` / root)*
 - **Instant preview (no setup):**
-  [Launch via htmlpreview](https://htmlpreview.github.io/?https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/index.html)
+  [Launch via htmlpreview](https://htmlpreview.github.io/?https://github.com/cacosomoza/QuantumSynthesizer/blob/main/index.html)
 - **Offline:** just open `index.html` in any modern browser — no server,
   no build step, no dependencies.
 
